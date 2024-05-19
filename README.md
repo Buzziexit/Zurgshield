@@ -10,7 +10,7 @@
 - 5.-Desarrollo del proyecto con detalle.
    
    - [Instalación Wazuh.](https://documentation.wazuh.com/current/installation-guide/index.html)
-      - [Configuración Agente Wazuh](Guia/conf-agente.md)
+      - [Configuración Agente Wazuh](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
         
    - [Instalación Suricata]()
       - [Configuración suricata Agente](Guia/conf-suricata.md)
