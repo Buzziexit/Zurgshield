@@ -17,7 +17,8 @@
 
    - 1.1.- [Configuración Agente Wazuh](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
 
-  ### 2.- [Instalación Suricata](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md) (No realizar el paso 3 marcado como Opcional)
+  ### 2.- [Instalación Suricata](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md) 
+  No realizar el paso 3 marcado como Opcional
   
    - 2.1.- [Configuración suricata Agente](Guia/conf-suricata.md)
 
