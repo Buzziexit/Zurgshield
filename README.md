@@ -11,6 +11,12 @@
 - 6.-Conclusiones y dificultades encontradas en el proyecto.
 - 7.-Referencias utilizadas.
 
+## Mapa
+
+![Diseño sin título (1)](https://github.com/Scosrom/FULLSIEMBuzzi/assets/114906778/d907fe26-ed2d-4e62-b4cf-f22e7df66b3a)
+
+
+
 ## Desarrollo del Proyecto:
 
   ### 1.- [Instalación Wazuh.](https://documentation.wazuh.com/current/installation-guide/index.html)
