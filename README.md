@@ -26,7 +26,7 @@
 
    2.- **Instalación Grafana** - [Click Aquí](Guia/conf-grafana)
    
-   - 2.1 Dashboard - [Click Aquí](Guia/conf-grafana)
+   - 2.1 Dashboard - [Click Aquí](Guia/Dashboard.json)
      
    3.- **Integraciones:**
 
