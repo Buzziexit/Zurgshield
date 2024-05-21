@@ -22,17 +22,18 @@
    1.- Instalación Wazuh.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
 
    - 1.1.- Configuración Agente Wazuh - [Click Aquí](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
+ 
 
-   2.- Instalación Suricata - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
-  
-   - 2.1.- Configuración suricata Agente - [Click Aquí](Guia/conf-suricata.md)
+   2.- Instalación Grafana - [Click Aquí](Guia/conf-grafana)
+   
+   - 2.1 Dashboard - [Click Aquí](Guia/conf-grafana)
+     
+   3.- Integraciones:
 
-   3.- Instalación Grafana - [Click Aquí](Guia/conf-grafana)
+   - 3.1.- Integración con Alertas Telegram - [Click Aquí](Guia/conf-telegram.md)
 
-   4.- Integraciones:
+   - 3.2.- Integración Virus Total - [Click Aquí](https://documentation.wazuh.com/current/user-manual/capabilities/malware-detection/virus-total-integration.html)
+   - 3.3.- Integracion con Maltiverse - [Click Aquí](https://documentation.wazuh.com/current/user-manual/manager/manual-integration.html#maltiverse)
+   - 3.4.- Instalación Suricata - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
 
-   - 4.1.- Integración con Alertas Telegram - [Click Aquí](Guia/conf-telegram.md)
-
-   - 4.2.- Integración Virus Total - [Click Aquí](https://documentation.wazuh.com/current/user-manual/capabilities/malware-detection/virus-total-integration.html)
-   - 4.3.- Integracion con Maltiverse - [Click Aquí](https://documentation.wazuh.com/current/user-manual/manager/manual-integration.html#maltiverse)
-
+      - 3.4.1- Configuración suricata Agente - [Click Aquí](Guia/conf-suricata.md)
