@@ -35,5 +35,5 @@
    - 3.2.- Integración Virus Total - [Click Aquí](https://documentation.wazuh.com/current/user-manual/capabilities/malware-detection/virus-total-integration.html)
    - 3.3.- Integracion con Maltiverse - [Click Aquí](https://documentation.wazuh.com/current/user-manual/manager/manual-integration.html#maltiverse)
    - 3.4.- Instalación Suricata - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
-
       - 3.4.1- Configuración suricata Agente - [Click Aquí](Guia/conf-suricata.md)
+   - 3.5.- Integración con ManoliBot Telegram - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLCs, están integrados en Wazuh)! 
