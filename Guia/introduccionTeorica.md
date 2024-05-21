@@ -20,10 +20,10 @@ Las integraciones adicionales mejoran la funcionalidad del SIEM al proporcionar 
 
 ### **Suricata**
 
-Suricata es un motor de detección de intrusiones (IDS) y prevención de intrusiones (IPS) que analiza el tráfico de red en busca de patrones maliciosos.
+- **Suricata** es un motor de detección de intrusiones (IDS) y prevención de intrusiones (IPS) que analiza el tráfico de red en busca de patrones maliciosos.
 
 - **Instalación y Configuración de Suricata:** La integración de Suricata con Wazuh permite la detección avanzada de amenazas en la red, aportando una capa adicional de seguridad al entorno.
 
 ### **ManoliBot**
 
-**ManoliBot** es un bot de Telegram que permite la ejecución de comandos en el servidor desde la plataforma de mensajería. Esta funcionalidad es crucial para la administración remota y la respuesta rápida a incidentes.
+- **ManoliBot** es un bot de Telegram que permite la ejecución de comandos en el servidor desde la plataforma de mensajería. Esta funcionalidad es crucial para la administración remota y la respuesta rápida a incidentes.
