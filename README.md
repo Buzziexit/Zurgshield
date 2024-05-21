@@ -14,7 +14,7 @@
 ## Mapa
 
 
-
+![mapa](/img/map.png)
 
 
 ## Desarrollo del Proyecto:
