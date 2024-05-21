@@ -1,8 +1,12 @@
-# <center>  FULLSIEMBuzzi </center>
+
+<h1 align="center">🚦   FULLSIEMBuzzi  🚦 </h1>
+
+
+
 
 ![buzzi](/img/buzzi.png)
 
-# ÍNDICE
+<h2 align="center">  ÍNDICE  </h2>
 
 - 1.-Descripción del proyecto.
 - 2.-Introducción teórica
@@ -17,8 +21,15 @@
 
 ![mapa](/img/map.png)
 
+<h2 align="center">  Descripción del Proyecto:  </h2>
 
-## Desarrollo del Proyecto:
+**TL;DR**: Este proyecto integra múltiples herramientas de seguridad como Wazuh, Grafana, Suricata, y más, para crear un sistema de monitoreo y respuesta a incidentes de seguridad eficiente y completo. 
+
+ - [Descripción detallada](/Guia/descripcion-detallada.md)
+
+
+
+<h2 align="center">  Desarrollo del Proyecto:  </h2>
 
    1.- **Instalación Wazuh**.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
 
@@ -38,3 +49,4 @@
    - 3.4.- Instalación Suricata - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
       - 3.4.1- Configuración suricata Agente - [Click Aquí](Guia/conf-suricata.md)
    - 3.5.- Integración con ManoliBot Telegram - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLCs, están integrados en Wazuh)! 
+
