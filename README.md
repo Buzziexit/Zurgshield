@@ -13,7 +13,7 @@
 
 ## Mapa
 
-![Diseño sin título (1)](https://github.com/Scosrom/FULLSIEMBuzzi/assets/114906778/d907fe26-ed2d-4e62-b4cf-f22e7df66b3a)
+
 
 
 
