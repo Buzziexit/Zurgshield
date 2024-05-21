@@ -1,5 +1,6 @@
-# FULLSIEMBuzzi
+# <center>  FULLSIEMBuzzi </center>
 
+![buzzi](/img/buzzi.png)
 
 # ÍNDICE
 
