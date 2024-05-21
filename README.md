@@ -21,7 +21,7 @@
 
 ![mapa](/img/map.png)
 
-<h2 align="center">  Introducción teórica  </h2>
+<h2 align="center">  Introducción teórica:  </h2>
 
 **TL;DR**: Este proyecto integra múltiples herramientas de seguridad como Wazuh, Grafana, Suricata, y más, para crear un sistema de monitoreo y respuesta a incidentes de seguridad eficiente y completo. 
 
