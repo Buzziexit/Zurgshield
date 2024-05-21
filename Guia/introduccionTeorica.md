@@ -14,6 +14,8 @@ En un entorno de TI moderno, la seguridad de la información es una preocupació
 Integraciones de Alertas y Análisis de Amenazas
 Las integraciones adicionales mejoran la funcionalidad del SIEM al proporcionar capacidades avanzadas de alerta y análisis:
 
+### **Integraciones**
+
 - **Alertas a través de Telegram:** Integrar Wazuh con Telegram permite que las alertas de seguridad sean enviadas directamente a un canal o grupo de Telegram, facilitando la comunicación inmediata de incidentes críticos.
 
 - **VirusTotal y Maltiverse:** Estas integraciones permiten el análisis automatizado de archivos y URLs contra bases de datos de amenazas conocidas, mejorando la capacidad de detección de malware y sitios maliciosos.
