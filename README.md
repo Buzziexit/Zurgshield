@@ -19,16 +19,16 @@
 
 ## Desarrollo del Proyecto:
 
-   1.- Instalación Wazuh.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
+   1.- **Instalación Wazuh**.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
 
    - 1.1.- Configuración Agente Wazuh - [Click Aquí](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
  
 
-   2.- Instalación Grafana - [Click Aquí](Guia/conf-grafana)
+   2.- **Instalación Grafana** - [Click Aquí](Guia/conf-grafana)
    
    - 2.1 Dashboard - [Click Aquí](Guia/conf-grafana)
      
-   3.- Integraciones:
+   3.- **Integraciones:**
 
    - 3.1.- Integración con Alertas Telegram - [Click Aquí](Guia/conf-telegram.md)
 
