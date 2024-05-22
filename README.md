@@ -47,7 +47,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
 
 **TL;DR**: Este proyecto integra múltiples herramientas de seguridad como Wazuh, Grafana, Suricata, y más, para crear un sistema de monitoreo y respuesta a incidentes de seguridad eficiente y completo. 
 
- - [Descripción detallada](/Guia/introduccionTeorica.md)
+ - [Introducción detallada](/Guia/introduccionTeorica.md)
 
 
 
