@@ -43,7 +43,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
 
 ![mapa](/img/map.png)
 
-<h2 align="center">  INTRODUCCIÓN TEÓRICA  </h2>
+<h2 align="center"> 📓📌 INTRODUCCIÓN TEÓRICA 📌📓 </h2> 
 
 **TL;DR**: Este proyecto integra múltiples herramientas de seguridad como Wazuh, Grafana, Suricata, y más, para crear un sistema de monitoreo y respuesta a incidentes de seguridad eficiente y completo. 
 
@@ -51,7 +51,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
 
 
 
-<h2 align="center">  DESARROLLO DEL PROYECTO  </h2>
+<h2 align="center"> 🔌🛠️ DESARROLLO DEL PROYECTO 🛠️🔌 </h2>
 
    1.- **Instalación Wazuh**.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
 
@@ -74,7 +74,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
 
 
 
-<h2 align="center">  CONCLUSIONES Y DESAFÍOS EN EL PROYECTO  </h2>
+<h2 align="center"> ⚔️💡 CONCLUSIONES Y DESAFÍOS EN EL PROYECTO 💡⚔️ </h2>
 
 
 <h3 align="center">  CONCLUSIONES </h3>
@@ -90,7 +90,7 @@ Visualización Avanzada de Datos: La implementación de Grafana ha facilitado la
 Flexibilidad y Movilidad: FULLSIEMBuzzi proporciona la capacidad de mantener el control sobre los sistemas desde cualquier ubicación. La integración con Telegram y el desarrollo de ManoliBot permiten recibir alertas y ejecutar comandos desde dispositivos móviles, garantizando una respuesta rápida incluso fuera de la oficina.
 
 ---
-<h3 align="center">  DESAFÍOS  </h3>
+<h3 align="center">  DESAFÍOS  </h3> 
 
 Durante el desarrollo de FULLSIEMBuzzi, me encontré con varios desafíos técnicos que requerían soluciones creativas:
 
@@ -104,6 +104,11 @@ En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva p
 
 
 
+<h2 align="center"> Licencia  </h2>
+
+<p align="center">
+  <img src="/img/88x31.png" alt="licencia">
+</p>
 
 
 
