@@ -1,5 +1,5 @@
 
-<h1 align="center">🚦   FULLSIEMBuzzi  🚦 </h1>
+<h1 align="center">🛡️   FULLSIEMBuzzi  🛡️ </h1>
 
 
 
@@ -38,10 +38,12 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
 
 
 
-<h2 align="center">  MAPA </h2>
+<h2 align="center"> 🗺️ MAPA 🗺️ </h2>
 
 
 ![mapa](/img/map.png)
+
+
 
 <h2 align="center"> 📓📌 INTRODUCCIÓN TEÓRICA 📌📓 </h2> 
 
