@@ -72,3 +72,38 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
       - 3.4.1- Configuración suricata Agente - [Click Aquí](Guia/conf-suricata.md)
    - 3.5.- Integración con ManoliBot Telegram - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLCs, están integrados en Wazuh)! 
 
+
+
+<h2 align="center">  CONCLUSIONES Y DESAFÍOS EN EL PROYECTO  </h2>
+
+
+<h3 align="center">  CONCLUSIONES </h3>
+
+La creación y despliegue de FULLSIEMBuzzi ha sido un paso significativo hacia una gestión de seguridad más efectiva en entornos digitales. Esta solución integral ofrece una herramienta potente para detectar, analizar y responder a amenazas de seguridad de manera eficiente. Al combinar tecnologías avanzadas como Wazuh, Suricata, Grafana y otras, FULLSIEMBuzzi proporciona una visión completa y un control mejorado sobre la infraestructura de TI, permitiendo una defensa proactiva contra las crecientes amenazas cibernéticas.
+
+Los principales logros del proyecto incluyen:
+
+Mejora en la Respuesta a Incidentes: La integración de diversas herramientas y la capacidad de recibir alertas en tiempo real han mejorado significativamente los tiempos de respuesta a incidentes. Esto permite actuar de manera rápida y efectiva para mitigar posibles daños.
+
+Visualización Avanzada de Datos: La implementación de Grafana ha facilitado la creación de dashboards interactivos para monitorear métricas y datos de seguridad en tiempo real. Esta capacidad de visualización mejora la comprensión de la situación de seguridad y facilita la toma de decisiones informadas.
+
+Flexibilidad y Movilidad: FULLSIEMBuzzi proporciona la capacidad de mantener el control sobre los sistemas desde cualquier ubicación. La integración con Telegram y el desarrollo de ManoliBot permiten recibir alertas y ejecutar comandos desde dispositivos móviles, garantizando una respuesta rápida incluso fuera de la oficina.
+
+<h3 align="center">  DESAFÍOS  </h3>
+
+Durante el desarrollo de FULLSIEMBuzzi, me encontré con varios desafíos técnicos que requerían soluciones creativas:
+
+- **Limitaciones de IPs Estáticas en AWS:** AWS ofrece la opción de tener IPs estáticas, pero implica costos adicionales que quería evitar, especialmente en un proyecto con recursos limitados como mi laboratorio estudiantil. Para resolver esto, implementé ZeroTier, una solución que me permitió mantener la conectividad sin incurrir en costos adicionales.
+
+- **Compatibilidad con OpenSearch y Grafana:** La migración de Wazuh a OpenSearch presentó dificultades de compatibilidad con Grafana. Descubrí que el plugin de OpenSearch en Grafana no funcionaba correctamente, por lo que opté por utilizar el plugin de Elasticsearch, que demostró ser más compatible y confiable.
+
+- **Limitaciones del Sistema de Monitorización:** Aunque el sistema de alertas a través de Telegram era útil, enfrenté limitaciones cuando no tenía acceso a un PC para responder a los incidentes. Para superar esto, desarrollé ManoliBot, una herramienta que me permite ejecutar comandos directamente desde mis dispositivos móviles, proporcionando una respuesta rápida y efectiva en cualquier situación.
+
+En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva para la gestión de seguridad en redes, superando desafíos técnicos con soluciones prácticas y adaptativas. Las lecciones aprendidas durante el proceso de desarrollo me han permitido crear una plataforma sólida y flexible, capaz de adaptarse a las necesidades cambiantes de seguridad cibernética en entornos dinámicos como el mío.
+
+
+
+
+
+
+
