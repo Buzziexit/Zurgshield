@@ -105,6 +105,22 @@ Durante el desarrollo de FULLSIEMBuzzi, me encontré con varios desafíos técni
 En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva para la gestión de seguridad en redes, superando desafíos técnicos con soluciones prácticas y adaptativas. Las lecciones aprendidas durante el proceso de desarrollo me han permitido crear una plataforma sólida y flexible, capaz de adaptarse a las necesidades cambiantes de seguridad cibernética en entornos dinámicos como el mío.
 
 
+<h2 align="center"> 🎖️ REFERENCIAS 🎖️  </h2> 
+
+
+<p align="center">
+  <a href="https://prometheus.io/docs/introduction/overview/">
+    <img src="/img/file_type_prometheus_icon_130229.png" alt="Prometheus Documentation">
+  </a>
+  <a href="https://grafana.com/docs/grafana/latest/">
+    <img src="/img/grafana_logo_icon_171048.png" alt="Grafana Documentation">
+  </a>
+  <a href="https://www.debian.org/doc/index.es.html">
+    <img src="/img/debian_original_logo_icon_146566.png" alt="Debian Documentation">
+  </a>
+</p>
+
+
 
 <h2 align="center"> Licencia  </h2>
 
