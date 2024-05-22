@@ -89,6 +89,7 @@ Visualización Avanzada de Datos: La implementación de Grafana ha facilitado la
 
 Flexibilidad y Movilidad: FULLSIEMBuzzi proporciona la capacidad de mantener el control sobre los sistemas desde cualquier ubicación. La integración con Telegram y el desarrollo de ManoliBot permiten recibir alertas y ejecutar comandos desde dispositivos móviles, garantizando una respuesta rápida incluso fuera de la oficina.
 
+---
 <h3 align="center">  DESAFÍOS  </h3>
 
 Durante el desarrollo de FULLSIEMBuzzi, me encontré con varios desafíos técnicos que requerían soluciones creativas:
