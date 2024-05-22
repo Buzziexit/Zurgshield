@@ -23,11 +23,17 @@ FULLSIEMBuzzi es una solución integral de gestión de información y eventos de
 Las principales características del proyecto incluyen:
 
 Wazuh: Plataforma de SIEM y monitorización de seguridad que permite la detección de intrusiones, análisis de integridad de archivos, monitorización de logs y gestión de vulnerabilidades.
+
 Grafana: Herramienta de visualización de datos que permite crear dashboards interactivos para la visualización en tiempo real de métricas y datos de seguridad.
+
 Suricata: Motor de detección y prevención de intrusiones que analiza el tráfico de red en busca de patrones maliciosos.
+
 Alertas a través de Telegram: Envío de alertas de seguridad directamente a un canal o grupo de Telegram para una comunicación inmediata.
+
 VirusTotal y Maltiverse: Análisis automatizado de archivos y URLs contra bases de datos de amenazas conocidas para mejorar la detección de malware y sitios maliciosos.
+
 ManoliBot: Bot de Telegram que permite la ejecución de comandos en el servidor desde la plataforma de mensajería, facilitando la administración remota y la respuesta rápida a incidentes.
+
 FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de la seguridad en redes, integrando tecnologías avanzadas y facilitando una respuesta rápida y efectiva a los incidentes de seguridad.
 
 
