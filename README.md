@@ -6,7 +6,7 @@
 
 ![buzzi](/img/buzzi.png)
 
-<h2 align="center">  ÍNDICE  </h2>
+<h2 align="center"> 🪧 ÍNDICE 🪧</h2>
 
 - 1.-Descripción del proyecto.
 - 2.-Mapa.
@@ -16,7 +16,7 @@
 - 6.-Conclusiones y dificultades encontradas en el proyecto.
 - 7.-Referencias utilizadas.
 
-<h2 align="center">  DESCRIPCIÓN DEL PROYECTO  </h2>
+<h2 align="center"> 📝 DESCRIPCIÓN DEL PROYECTO 📝 </h2>
 
 FULLSIEMBuzzi es una solución integral de gestión de información y eventos de seguridad (SIEM) que combina varias herramientas avanzadas de monitoreo, visualización y análisis de seguridad. El objetivo del proyecto es proporcionar una plataforma robusta que permita a las organizaciones detectar, analizar y responder a incidentes de seguridad de manera eficiente.
 
