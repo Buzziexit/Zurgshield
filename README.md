@@ -110,7 +110,7 @@ En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva p
 
 <p align="center">
   <a href="https://prometheus.io/docs/introduction/overview/">
-    <img src="/img/file_type_prometheus_icon_130229.png" alt="Prometheus Documentation">
+    <img src="/img/grafana_logo_icon_171048.png" alt="VirusTotal">
   </a>
   <a href="https://grafana.com/docs/grafana/latest/">
     <img src="/img/grafana_logo_icon_171048.png" alt="Grafana Documentation">
