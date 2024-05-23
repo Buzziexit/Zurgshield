@@ -91,7 +91,7 @@ En el contexto de la creciente complejidad y sofisticación de las amenazas cibe
   - Registro de Historial: Telegram mantiene un registro de alertas para análisis posterior.
 
 
-- **ManoliBot:** ManoliBot es un bot de Telegram diseñado para proporcionar una interfaz de gestión remota eficiente al permitir a los administradores ejecutar comandos directamente en los servidores y hosts enlazados a través de la aplicación de mensajería Telegram. Con ManoliBot, los administradores pueden realizar acciones de gestión y respuesta rápida desde cualquier lugar y en cualquier momento, utilizando su dispositivo móvil o de escritorio.
+- **ManoliBot:** Es un bot de Telegram diseñado para proporcionar una interfaz de gestión remota eficiente al permitir a los administradores ejecutar comandos directamente en los servidores y hosts enlazados a través de la aplicación de mensajería Telegram. Con ManoliBot, los administradores pueden realizar acciones de gestión y respuesta rápida desde cualquier lugar y en cualquier momento, utilizando su dispositivo móvil o de escritorio.
 
   - **Gestión Remota Eficiente:** Ejecuta comandos directamente en sistemas desde Telegram, simplificando la gestión remota.
 
@@ -104,6 +104,31 @@ En el contexto de la creciente complejidad y sofisticación de las amenazas cibe
   - **Interacción Intuitiva:** Telegram ofrece una interfaz fácil de usar para comunicación efectiva.
 
   - **Aumento de Eficiencia:** Mejora la eficiencia operativa y reduce tiempos de resolución de incidentes.
+ 
+
+- **The Hive**: Es una plataforma de gestión de incidentes de seguridad (Security Incident Response Platform, SIRP) diseñada para ayudar a los equipos de seguridad a gestionar, rastrear y resolver incidentes de manera colaborativa y eficiente. Sus principales funcionalidades incluyen:
+
+  - **Gestión de Incidentes:** Permite la creación, seguimiento y resolución de incidentes de seguridad mediante casos y tareas asignadas a miembros del equipo.
+
+  - **Colaboración:** Facilita la colaboración entre equipos mediante la organización de incidentes en casos detallados que incluyen todas las actividades y evidencias relevantes.
+
+  - **Automatización:** Ofrece capacidades de automatización para la creación de casos y respuesta a incidentes, optimizando los flujos de trabajo y reduciendo el tiempo de respuesta.
+
+- **Cortex**: Es una plataforma de análisis y enriquecimiento de datos de seguridad. Proporciona análisis automatizados de observables (IPs, URLs, hashes de archivos, etc.) utilizando una variedad de servicios y motores de análisis. Sus características principales son:
+
+  - **Análisis Automatizado:** Ejecuta análisis automáticos sobre los observables para obtener información detallada y precisa.
+
+  - **Enriquecimiento de Datos:** Proporciona información enriquecida sobre los observables, lo que ayuda a los equipos de seguridad a tomar decisiones informadas.
+
+  -  **APIs Abiertas:** Permite la integración con diversas herramientas de seguridad para mejorar la eficiencia y efectividad del análisis.
+
+    **Funcionamiento de The Hive y Cortex**
+
+     - 1. **Creación de Casos:** Cuando se detecta un incidente de seguridad, se crea un caso en The Hive.
+     - 2. **Asignación de Tareas:** El caso puede incluir varias tareas que se asignan a diferentes miembros del equipo de seguridad.
+     - 3. **Análisis de Observables:** Los observables asociados al incidente (como direcciones IP, dominios, hashes de archivos) se envían a Cortex para análisis y enriquecimiento.
+     - 4. **Resultados del Análisis:** Cortex devuelve los resultados del análisis a The Hive, proporcionando información valiosa sobre los observables.
+     - 5. **Resolución de Incidentes:** Con la información enriquecida y la colaboración facilitada por The Hive, los equipos de seguridad pueden gestionar y resolver los incidentes de manera más efectiva.
 
 
 
