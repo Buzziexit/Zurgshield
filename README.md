@@ -33,6 +33,10 @@ Las principales características del proyecto incluyen:
 - **VirusTotal y Maltiverse:** Análisis automatizado de archivos y URLs contra bases de datos de amenazas conocidas para mejorar la detección de malware y sitios maliciosos.
 
 - **ManoliBot:** Bot de Telegram que permite la ejecución de comandos en el servidor desde la plataforma de mensajería, facilitando la administración remota y la respuesta rápida a incidentes.
+  
+- **The Hive con Cortex:** Sistema de gestión de tickets que facilita la organización y seguimiento de incidentes de seguridad, integrando análisis automatizados y enriquecimiento de datos para mejorar la respuesta a incidentes.
+
+
 
 FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de la seguridad en redes, integrando tecnologías avanzadas y facilitando una respuesta rápida y efectiva a los incidentes de seguridad.
 
@@ -72,9 +76,10 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
    - 3.3.- Integracion con Maltiverse - [Click Aquí](https://documentation.wazuh.com/current/user-manual/manager/manual-integration.html#maltiverse)
    - 3.4.- Instalación Suricata - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
       - 3.4.1- Configuración suricata Agente - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/integrate-network-ids-suricata.html)
-   - 3.5.- Integración con ManoliBot Telegram - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLCs, están integrados en Wazuh)! 
+   - 3.5.- Integración con ManoliBot Telegram - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLCs, están integrados en Wazuh)!st
 
-
+   4.- **Instalación de The Hive y Cortex**: [Click Aquí](https://docs.thehive-project.org/thehive/legacy/thehive3/installation/install-guide/#docker)
+      - 4.1- Configuración de Wazuh con The Hive - [Click Aquí](https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/)
 
 <h2 align="center"> ⚔️💡 CONCLUSIONES Y DESAFÍOS EN EL PROYECTO 💡⚔️ </h2>
 
