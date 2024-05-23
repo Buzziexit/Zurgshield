@@ -2,30 +2,109 @@ En el contexto de la creciente complejidad y sofisticación de las amenazas cibe
 
 ## **Herramientas y Funcionalidades Integradas en FULLSIEMBuzzi**
 
-FULLSIEMBuzzi integra varias herramientas de vanguardia que juntas forman una solución cohesiva y efectiva para la gestión de la seguridad en redes. Entre las principales características del proyecto se encuentran:
+**FULLSIEMBuzzi** integra varias herramientas de vanguardia que juntas forman una solución cohesiva y efectiva para la gestión de la seguridad en redes. Entre las principales características del proyecto se encuentran:
 
-- **Wazuh:** Esta plataforma de SIEM y monitorización de seguridad permite una amplia gama de funciones críticas para la defensa cibernética. Proporciona capacidades de detección de intrusiones, análisis de integridad de archivos, monitorización de logs y gestión de vulnerabilidades. La integración de Wazuh en FULLSIEMBuzzi permite a las organizaciones tener una visión completa de su infraestructura de TI, identificando y mitigando rápidamente las amenazas potenciales.
+- **AWS Educate** proporciona una iniciativa educativa que permite a estudiantes y educadores acceder a recursos en la nube de Amazon Web Services (AWS) de forma gratuita. Dentro de esta iniciativa, AWS ofrece el servicio llamado "AWS Educate Starter Account", que permite a los estudiantes experimentar y aprender sobre la infraestructura en la nube utilizando recursos de AWS.
 
-- **Grafana:** Es una herramienta de visualización de datos que permite crear dashboards interactivos. En el contexto de FULLSIEMBuzzi, Grafana se utiliza para visualizar en tiempo real las métricas y datos de seguridad recopilados por otras herramientas integradas. Esta capacidad de visualización facilita la interpretación de datos complejos y la identificación de patrones anómalos que podrían indicar posibles incidentes de seguridad.
+- **ZeroTier** es una red de área amplia definida por software (SD-WAN) que permite la creación de redes privadas virtuales (VPN) de forma rápida y segura a través de Internet. Es una plataforma de conectividad que facilita la creación de redes virtuales seguras y privadas sin necesidad de configuraciones complejas de enrutadores o cortafuegos.
 
-- **Suricata:** Actuando como un motor de detección y prevención de intrusiones (IDS/IPS), Suricata analiza el tráfico de red en busca de patrones maliciosos. Su capacidad para detectar actividades sospechosas en tiempo real es esencial para prevenir ataques y mitigar daños antes de que afecten significativamente a la organización.
+### Wazuh
 
-- **Alertas a través de Telegram:** La capacidad de enviar alertas de seguridad directamente a un canal o grupo de Telegram permite una comunicación inmediata y eficiente. Esta característica asegura que los equipos de seguridad sean informados de los incidentes en tiempo real, permitiendo una respuesta rápida y coordinada.
+- **Wazuh:** Es una plataforma de seguridad que detecta, monitorea y responde a amenazas en entornos de tecnología de la información (TI).
 
-- **VirusTotal y Maltiverse:** Estas herramientas realizan análisis automatizados de archivos y URLs contra bases de datos de amenazas conocidas. Integrar estos servicios en FULLSIEMBuzzi mejora la detección de malware y sitios maliciosos, proporcionando una capa adicional de seguridad contra amenazas conocidas.
+  - **Wazuh server:** Es el componente central de la plataforma Wazuh. Se encarga de recopilar datos de seguridad de los agentes   
+  desplegados en los sistemas a proteger. Estos datos incluyen registros de eventos, archivos de configuración, información de integridad  
+  del sistema, etc. El servidor analiza estos datos utilizando reglas predefinidas para detectar posibles amenazas y genera alertas en 
+  caso de detectar actividades sospechosas.
 
-- **ManoliBot:** Este bot de Telegram permite la ejecución de comandos en el servidor directamente desde la plataforma de mensajería. Esta funcionalidad facilita la administración remota y la respuesta rápida a incidentes, mejorando la capacidad de gestión y resolución de problemas de seguridad en tiempo real.
+  - **wazuh Indexer:** Su función principal es almacenar y gestionar eficientemente los datos recopilados por el servidor. Proporciona una   base de datos escalable y de alto rendimiento que permite almacenar grandes volúmenes de eventos de seguridad y realizar búsquedas       
+  rápidas sobre ellos. El Indexer es crucial para mantener un historial de eventos de seguridad y facilitar el análisis retrospectivo de   
+  datos para identificar patrones de actividad maliciosa o sospechosa.
 
-### **Beneficios de una Solución Integral**
+  - **Wazuh Dashboard:** Es una interfaz web que forma parte de la plataforma Wazuh. Proporciona una visualización centralizada de la   
+  información de seguridad recopilada y procesada por el servidor Wazuh y el Indexer. A través del dashboard, los usuarios pueden acceder 
+  a paneles de control, gráficos y métricas que les permiten monitorear el estado de seguridad de su entorno en tiempo real.
 
-La integración de estas herramientas en una plataforma unificada como FULLSIEMBuzzi ofrece varios beneficios significativos:
+  - **Wazuh Agent:** Es un software ligero que se instala en los sistemas que se desean proteger, como servidores, estaciones de trabajo o   dispositivos de red. La función principal del agente es recopilar datos de seguridad del sistema en el que está instalado y enviarlos de   manera segura al servidor Wazuh para su análisis y procesamiento.
 
-- **Visibilidad y Control Centralizados:** Al consolidar diversas funcionalidades de seguridad en una única plataforma, las organizaciones obtienen una visibilidad y control centralizados sobre sus entornos de TI. Esto facilita la gestión y la coordinación de las respuestas a incidentes de seguridad.
 
-- **Respuesta Rápida y Eficiente:** La capacidad de recibir alertas en tiempo real y ejecutar comandos de administración remota permite a los equipos de seguridad responder de manera más rápida y efectiva a los incidentes. Esto es crucial para mitigar el impacto de los ataques y reducir el tiempo de inactividad.
+### Integraciones:
 
-- **Mejora en la Detección de Amenazas:** La combinación de análisis de tráfico de red, monitoreo de logs, análisis de integridad de archivos y verificación contra bases de datos de amenazas conocidas proporciona una capacidad de detección de amenazas más robusta y precisa.
 
-- **Facilidad de Uso y Administración:** Herramientas como Grafana y ManoliBot hacen que la administración y el monitoreo de la seguridad sean más intuitivos y accesibles, incluso para equipos con recursos limitados.
+- **Suricata:** Es un motor de detección de intrusiones, prevención de intrusiones y monitoreo de seguridad de red de código abierto. Desarrollado y mantenido por la Open Information Security Foundation (OISF), Suricata es capaz de realizar inspección profunda de paquetes, análisis de tráfico de red y detección de amenazas en tiempo real. 
+
+  Cuando se integra con Wazuh, Suricata actúa como una fuente adicional de datos de seguridad que complementa las capacidades de monitoreo   y análisis de Wazuh.
+
+- **Virus Total:** La integración de VirusTotal con Wazuh permite que las capacidades de análisis de archivos y URLs de VirusTotal se combinen con la plataforma de monitoreo y gestión de seguridad de Wazuh, ofreciendo una solución más robusta para la detección y respuesta a amenazas.
+
+  - **Subida de Archivos Sospechosos:** Wazuh puede configurar para subir automáticamente archivos sospechosos a VirusTotal.
+
+  - **Análisis:** VirusTotal analiza estos archivos con múltiples motores antivirus.
+
+  - **Resultados:** VirusTotal devuelve los resultados a Wazuh, indicando si algún motor detecta el archivo como malicioso.
+
+  - **Generación de Alertas:** Basándose en los resultados, Wazuh genera alertas para que los administradores investiguen.
+
+  - **Visualización:** Los resultados y alertas se visualizan en el Wazuh Dashboard, facilitando la gestión de amenazas.
+
+
+- **Maltiverse:** Es una plataforma de inteligencia de amenazas que recopila y analiza datos sobre indicadores de compromiso (IoCs), como direcciones IP, dominios, URLs y archivos que están asociados con actividades maliciosas. La plataforma ayuda a las organizaciones a identificar y mitigar amenazas de seguridad al proporcionar información detallada y actualizada.
+
+  - **Detección de Actividades Sospechosas:** Wazuh detecta actividades sospechosas en el sistema.
+  Consulta a Maltiverse: Wazuh consulta a Maltiverse sobre los indicadores de compromiso (IoCs) detectados, como IPs, dominios y archivos.
+
+  - **Enriquecimiento de Datos:** Maltiverse devuelve información sobre si estos IoCs son maliciosos y proporciona detalles adicionales.
+
+  - **Generación de Alertas:** Wazuh genera alertas basadas en la información recibida de Maltiverse.
+
+  - **Visualización en Dashboard:** Las alertas y la información de Maltiverse se muestran en el Wazuh Dashboard para una gestión fácil.
+
+
+- **OpenSearch y Elasticsearch:** Son motores de búsqueda y análisis distribuidos utilizados para indexar, buscar y analizar grandes volúmenes de datos en tiempo real.
+
+  - **Elasticsearch:** Es una herramienta de código abierto desarrollada por Elastic.
+  Conocido por su escalabilidad y velocidad, tradicionalmente se ha usado en Wazuh.
+
+  - **OpenSearch:** Es una bifurcación comunitaria de Elasticsearch, iniciada por Amazon Web Services (AWS).Ofrece características   
+  similares y es compatible con muchas de las funciones de Elasticsearch.
+
+  - **Integración en Wazuh:**
+
+    Wazuh originalmente integraba Elasticsearch como su backend.
+    Ahora, Wazuh viene integrado con OpenSearch como el motor de búsqueda y análisis predeterminado.
+
+
+- **Grafana:** Es una plataforma de código abierto para la visualización y el análisis de datos. Permite crear y compartir paneles   interactivos que muestran datos en tiempo real de múltiples fuentes, como bases de datos, servicios de monitoreo y otros sistemas de análisis.
+
+  Integrar Grafana con Wazuh proporciona una poderosa herramienta para la visualización y el análisis de datos de seguridad.
+
+- **Telegram:** Es una aplicación de mensajería instantánea basada en la nube, conocida por su velocidad, seguridad y funciones avanzadas. Permite enviar mensajes, fotos, videos y archivos de cualquier tipo, así como crear grupos de hasta 200,000 miembros y canales para difundir mensajes a audiencias ilimitadas.
+
+  - Notificaciones Instantáneas: Wazuh envía alertas de seguridad directamente a Telegram.
+
+  - Acceso Móvil: Los administradores pueden recibir alertas en sus dispositivos móviles.
+
+  - Comunicación Eficiente: Se pueden crear grupos o canales dedicados para coordinar respuestas.
+
+  - Automatización: Se pueden usar bots para respuestas automáticas.
+
+  - Registro de Historial: Telegram mantiene un registro de alertas para análisis posterior.
+
+
+- **ManoliBot:** ManoliBot es un bot de Telegram diseñado para proporcionar una interfaz de gestión remota eficiente al permitir a los administradores ejecutar comandos directamente en los servidores y hosts enlazados a través de la aplicación de mensajería Telegram. Con ManoliBot, los administradores pueden realizar acciones de gestión y respuesta rápida desde cualquier lugar y en cualquier momento, utilizando su dispositivo móvil o de escritorio.
+
+  - **Gestión Remota Eficiente:** Ejecuta comandos directamente en sistemas desde Telegram, simplificando la gestión remota.
+
+  - **Respuesta Rápida a Incidentes:** Actúa rápidamente ante incidentes ejecutando comandos de respuesta desde Telegram.
+
+  - **Acceso Móvil:** Administra sistemas desde cualquier lugar usando dispositivos móviles.
+
+  - **Registro de Actividades:** Registra todas las acciones para auditoría y análisis posteriores.
+
+  - **Interacción Intuitiva:** Telegram ofrece una interfaz fácil de usar para comunicación efectiva.
+
+  - **Aumento de Eficiencia:** Mejora la eficiencia operativa y reduce tiempos de resolución de incidentes.
+
+
 
 En resumen, FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de la seguridad en redes, integrando tecnologías avanzadas y facilitando una respuesta rápida y efectiva a los incidentes de seguridad. Al combinar diversas herramientas en una plataforma unificada, permite a las organizaciones enfrentar de manera proactiva y eficiente las amenazas cibernéticas modernas.
