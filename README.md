@@ -60,7 +60,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
    - 1.1.- Configuración Agente Wazuh - [Click Aquí](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
  
 
-   2.- **Instalación Grafana** - [Click Aquí](Guia/conf-grafana)
+   2.- **Instalación Grafana** - [Click Aquí](https://github.com/Scosrom/monitorizacion/blob/master/graf.md)
    
    - 2.1 Dashboard - [Click Aquí](Guia/Dashboard.json)
      
