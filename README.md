@@ -85,11 +85,11 @@ La creación y despliegue de FULLSIEMBuzzi ha sido un paso significativo hacia u
 
 Los principales logros del proyecto incluyen:
 
-Mejora en la Respuesta a Incidentes: La integración de diversas herramientas y la capacidad de recibir alertas en tiempo real han mejorado significativamente los tiempos de respuesta a incidentes. Esto permite actuar de manera rápida y efectiva para mitigar posibles daños.
+- **Mejora en la Respuesta a Incidentes:** La integración de diversas herramientas y la capacidad de recibir alertas en tiempo real han mejorado significativamente los tiempos de respuesta a incidentes. Esto permite actuar de manera rápida y efectiva para mitigar posibles daños.
 
-Visualización Avanzada de Datos: La implementación de Grafana ha facilitado la creación de dashboards interactivos para monitorear métricas y datos de seguridad en tiempo real. Esta capacidad de visualización mejora la comprensión de la situación de seguridad y facilita la toma de decisiones informadas.
+- **Visualización Avanzada de Datos:** La implementación de Grafana ha facilitado la creación de dashboards interactivos para monitorear métricas y datos de seguridad en tiempo real. Esta capacidad de visualización mejora la comprensión de la situación de seguridad y facilita la toma de decisiones informadas.
 
-Flexibilidad y Movilidad: FULLSIEMBuzzi proporciona la capacidad de mantener el control sobre los sistemas desde cualquier ubicación. La integración con Telegram y el desarrollo de ManoliBot permiten recibir alertas y ejecutar comandos desde dispositivos móviles, garantizando una respuesta rápida incluso fuera de la oficina.
+- **Flexibilidad y Movilidad:** FULLSIEMBuzzi proporciona la capacidad de mantener el control sobre los sistemas desde cualquier ubicación. La integración con Telegram y el desarrollo de ManoliBot permiten recibir alertas y ejecutar comandos desde dispositivos móviles, garantizando una respuesta rápida incluso fuera de la oficina.
 
 ---
 <h3 align="center">  DESAFÍOS  </h3> 
