@@ -78,8 +78,9 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
       - 3.4.1- Configuración suricata Agente - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/integrate-network-ids-suricata.html)
    - 3.5.- Integración con ManoliBot Telegram - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLCs, están integrados en Wazuh)!st
 
-   4.- **Instalación de The Hive y Cortex**: [Click Aquí](https://docs.thehive-project.org/thehive/legacy/thehive3/installation/install-guide/#docker)
-      - 4.1- Configuración de Wazuh con The Hive - [Click Aquí](https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/)
+   4.- **Instalación de The Hive y Cortex**: [Click Aquí](https://docs.thehive-project.org/thehive/legacy/thehive3/installation/install-guide/#docker) 
+   
+   - 4.1- Configuración de Wazuh con The Hive - [Click Aquí](https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/)
 
 <h2 align="center"> ⚔️💡 CONCLUSIONES Y DESAFÍOS EN EL PROYECTO 💡⚔️ </h2>
 
