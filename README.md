@@ -81,6 +81,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
    4.- **Instalación de The Hive y Cortex**: [Click Aquí](https://docs.thehive-project.org/thehive/legacy/thehive3/installation/install-guide/#docker) 
    
    - 4.1- Configuración de Wazuh con The Hive - [Click Aquí](https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/)
+   - 4.2- Añadir usuarios a The Hive - [Click Aquí](https://hub.hive.app/hc/es/articles/15624489753885-A%C3%B1ade-nuevos-usuarios)
 
 <h2 align="center"> ⚔️💡 CONCLUSIONES Y DESAFÍOS EN EL PROYECTO 💡⚔️ </h2>
 
