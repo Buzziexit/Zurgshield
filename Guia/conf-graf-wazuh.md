@@ -33,4 +33,4 @@ Nos vamos a Dashboard y pulsamos sobre **New dasboard**
 
 Le damos a Import a dashboard, y pegamos el json que tenemos en este repositorio. 
 
-[Click aquí]() -> Dashboard
+[Click aquí](Guia/Dashboard.json) -> Dashboard
