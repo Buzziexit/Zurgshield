@@ -114,11 +114,11 @@ Durante el desarrollo de FULLSIEMBuzzi, me encontré con varios desafíos técni
 En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva para la gestión de seguridad en redes, superando desafíos técnicos con soluciones prácticas y adaptativas. Las lecciones aprendidas durante el proceso de desarrollo me han permitido crear una plataforma sólida y flexible, capaz de adaptarse a las necesidades cambiantes de seguridad cibernética en entornos dinámicos como el mío.
 
 
-<h2 align="center"> 🎖️ REFERENCIAS 🎖️  </h2> 
+<h2 align="center">  REFERENCIAS   </h2> 
 
 
 <p align="center">
-  <a href="https://prometheus.io/docs/introduction/overview/">
+  <a href="https://core.telegram.org/bots/api">
     <img src="/img/telegram_icon-icons.com_72055.png" alt="VirusTotal">
   </a>
  
@@ -126,17 +126,26 @@ En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva p
     <img src="/img/grafana_logo_icon_171048.png" alt="Grafana Documentation">
   </a>
   
-  <a href="https://www.debian.org/doc/index.es.html">
+  <a href="https://virustotal.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.virustotal.com%2Fhc%2Fen-us%2Fcategories%2F360000162878-Documentation&theme=hc&locale=en-us&brand_id=209401&auth_origin=209401%2Ctrue%2Ctrue">
     <img src="/img/virustotal_logo_icon_171247.png" alt="Telegram Documentation">
   </a>
 
-   <a href="https://www.debian.org/doc/index.es.html">
+   <a href="https://documentation.wazuh.com/current/index.html">
     <img src="https://github.com/wazuh/wazuh-packages/blob/4.3/stack/dashboard/base/files/etc/custom_welcome/Assets/Favicons/mstile-70x70.png" alt="wazuh Documentation">
   </a>
 
-  <a href="https://www.debian.org/doc/index.es.html">
+  <a href="https://www.elastic.co/guide/index.html?utm_campaign=Google-B-EMEA-S-Exact&utm_content=Brand-Core-Documentation&utm_source=google&utm_medium=cpc&device=c&utm_term=elasticsearch%20docs&gad_source=1&gclid=CjwKCAjw9cCyBhBzEiwAJTUWNZthGgrAVbLvRKVWOs4oIYwnYyXwGLtc-bwDsNVoWe7kURp7-wwrVBoCdV8QAvD_BwE">
   <img src="/img/icons8-elasticsearch-74.png" alt="wazuh Documentation">
   </a>
+
+  <a href="https://docs.thehive-project.org/">
+  <img src="/img/thehive_resized.png" alt="wazuh Documentation">
+  </a>
+
+  <a href="https://docs.thehive-project.org/cortex/">
+  <img src="/img/cortex (1).svg" alt="wazuh Documentation">
+  </a>
+  
 </p>
 
 
