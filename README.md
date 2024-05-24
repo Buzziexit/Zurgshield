@@ -119,22 +119,21 @@ En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva p
 
 <p align="center">
   <a href="https://prometheus.io/docs/introduction/overview/">
-    <img src="/img/virustotal_logo_icon_170249.png" alt="VirusTotal">
+    <img src="https://skillicons.dev/icons?i=telegram" alt="VirusTotal">
   </a>
  
   <a href="https://grafana.com/docs/grafana/latest/">
-    <img src="/img/grafana_logo_icon_171049.png" alt="Grafana Documentation">
+    <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana Documentation">
   </a>
   
   <a href="https://www.debian.org/doc/index.es.html">
-    <img src="/img/telegram_logo_icon_168691.png" alt="Telegram Documentation">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Telegram Documentation">
   </a>
 
    <a href="https://www.debian.org/doc/index.es.html">
-    <img src="https://asset.brandfetch.io/idGBqJSmMa/idNog5T5UD.svg" alt="wazuh Documentation">
+    <img src="https://github.com/wazuh/wazuh-packages/blob/4.3/stack/dashboard/base/files/etc/custom_welcome/Assets/Favicons/mstile-70x70.png" alt="wazuh Documentation">
   </a>
 </p>
-
 
 
 <h2 align="center"> Licencia  </h2>
