@@ -119,15 +119,15 @@ En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva p
 
 <p align="center">
   <a href="https://prometheus.io/docs/introduction/overview/">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="VirusTotal">
+    <img src="/img/telegram_icon-icons.com_72055.png" alt="VirusTotal">
   </a>
  
   <a href="https://grafana.com/docs/grafana/latest/">
-    <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana Documentation">
+    <img src="/img/grafana_logo_icon_171048.png" alt="Grafana Documentation">
   </a>
   
   <a href="https://www.debian.org/doc/index.es.html">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Telegram Documentation">
+    <img src="/img/virustotal_logo_icon_171247.png" alt="Telegram Documentation">
   </a>
 
    <a href="https://www.debian.org/doc/index.es.html">
