@@ -65,8 +65,8 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
  
 
    2.- **Instalación Grafana** - [Click Aquí](https://github.com/Scosrom/monitorizacion/blob/master/graf.md)
-   
-   - 2.1 Dashboard - [Click Aquí](Guia/Dashboard.json)
+   - 2.1 Configuración de Grafana con Wazuh. [Click Aquí](Guia/conf-graf-wazuh.md)
+   - 2.2 Dashboard - [Click Aquí](Guia/Dashboard.json)
      
    3.- **Integraciones:**
 
