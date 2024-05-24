@@ -133,6 +133,10 @@ En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva p
    <a href="https://www.debian.org/doc/index.es.html">
     <img src="https://github.com/wazuh/wazuh-packages/blob/4.3/stack/dashboard/base/files/etc/custom_welcome/Assets/Favicons/mstile-70x70.png" alt="wazuh Documentation">
   </a>
+
+  <a href="https://www.debian.org/doc/index.es.html">
+  <img src="/img/icons8-elasticsearch-74.png" alt="wazuh Documentation">
+  </a>
 </p>
 
 
