@@ -90,7 +90,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
 
 <h3 align="center">  CONCLUSIONES </h3>
 
-La creación y despliegue de FULLSIEMBuzzi ha sido un paso significativo hacia una gestión de seguridad más efectiva en entornos digitales. Esta solución integral ofrece una herramienta potente para detectar, analizar y responder a amenazas de seguridad de manera eficiente. Al combinar tecnologías avanzadas como Wazuh, Suricata, Grafana y otras, FULLSIEMBuzzi proporciona una visión completa y un control mejorado sobre la infraestructura de TI, permitiendo una defensa proactiva contra las crecientes amenazas cibernéticas.
+FULLSIEMBuzzi ofrece una herramienta potente para detectar, analizar y responder a amenazas de seguridad de manera eficiente. Al combinar tecnologías avanzadas como Wazuh, Suricata, Grafana y otras, FULLSIEMBuzzi proporciona una visión completa y un control mejorado sobre la infraestructura de TI, permitiendo una defensa proactiva contra las crecientes amenazas cibernéticas.
 
 Los principales logros del proyecto incluyen:
 
