@@ -24,3 +24,13 @@ En la configuracion de la Autenticación configurar así:
 ![image](https://github.com/Buzziex/FULLSIEMBuzzi/assets/114906778/46200ceb-d16f-4bd2-bced-aeb0fde9c0d5)
 
 En **Index name** añadimos <code>wazuh-alert*</code> para añadir todos los index con alertas. 
+
+Paso 3. Añadir Dashboard. 
+
+Nos vamos a Dashboard y pulsamos sobre **New dasboard**
+
+![image](https://github.com/Buzziex/FULLSIEMBuzzi/assets/114906778/e7065f6f-b83d-4e08-bc83-511e1cbd478e)
+
+Le damos a Import a dashboard, y pegamos el json que tenemos en este repositorio. 
+
+[Click aquí]() -> Dashboard
