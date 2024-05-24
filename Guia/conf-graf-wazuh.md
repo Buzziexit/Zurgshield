@@ -23,4 +23,4 @@ En la configuracion de la Autenticación configurar así:
 
 ![image](https://github.com/Buzziex/FULLSIEMBuzzi/assets/114906778/46200ceb-d16f-4bd2-bced-aeb0fde9c0d5)
 
-En **Index name** añadimos <code>wazuh-alert*<code> para añadir todos los index con alertas. 
+En **Index name** añadimos <code>wazuh-alert*</code> para añadir todos los index con alertas. 
