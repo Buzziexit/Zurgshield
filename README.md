@@ -45,7 +45,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
 <h2 align="center"> 🗺️ MAPA 🗺️ </h2>
 
 
-![mapa](/img/mapa1.png)
+![mapa](/img/mapa.png)
 
 
 
