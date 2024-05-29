@@ -1,8 +1,8 @@
-En el contexto de la creciente complejidad y sofisticación de las amenazas cibernéticas, la gestión eficaz de la seguridad de la información se ha convertido en una prioridad crítica para las organizaciones. Para enfrentar estos desafíos, se han desarrollado soluciones integrales de gestión de información y eventos de seguridad (SIEM), las cuales combinan herramientas avanzadas de monitoreo, visualización y análisis de seguridad. Una de estas soluciones es FULLSIEMBuzzi, que se presenta como una plataforma robusta y multifuncional diseñada para detectar, analizar y responder a incidentes de seguridad de manera eficiente.
+En el contexto de la creciente complejidad y sofisticación de las amenazas cibernéticas, la gestión eficaz de la seguridad de la información se ha convertido en una prioridad crítica para las organizaciones. Para enfrentar estos desafíos, se han desarrollado soluciones integrales de gestión de información y eventos de seguridad (SIEM), las cuales combinan herramientas avanzadas de monitoreo, visualización y análisis de seguridad. Una de estas soluciones es Zurgshield, que se presenta como una plataforma robusta y multifuncional diseñada para detectar, analizar y responder a incidentes de seguridad de manera eficiente.
 
 ## **Herramientas y Funcionalidades Integradas en FULLSIEMBuzzi**
 
-**FULLSIEMBuzzi** integra varias herramientas de vanguardia que juntas forman una solución cohesiva y efectiva para la gestión de la seguridad en redes. Entre las principales características del proyecto se encuentran:
+**Zurgshield** integra varias herramientas de vanguardia que juntas forman una solución cohesiva y efectiva para la gestión de la seguridad en redes. Entre las principales características del proyecto se encuentran:
 
 - **AWS Educate** proporciona una iniciativa educativa que permite a estudiantes y educadores acceder a recursos en la nube de Amazon Web Services (AWS) de forma gratuita. Dentro de esta iniciativa, AWS ofrece el servicio llamado "AWS Educate Starter Account", que permite a los estudiantes experimentar y aprender sobre la infraestructura en la nube utilizando recursos de AWS.
 
@@ -54,7 +54,7 @@ En el contexto de la creciente complejidad y sofisticación de las amenazas cibe
     
   - **Creación de Reglas:** Los usuarios pueden crear reglas personalizadas que describan las características del malware, lo que permite a Yara detectar variantes de malware que coincidan con estos patrones.
     
-  - **Integración con Wazuh:** Yara se puede integrar con Wazuh para escanear archivos y procesos en busca de patrones maliciosos, proporcionando una capa adicional de seguridad y detección en la plataforma FULLSIEMBuzzi.
+  - **Integración con Wazuh:** Yara se puede integrar con Wazuh para escanear archivos y procesos en busca de patrones maliciosos, proporcionando una capa adicional de seguridad y detección en la plataforma Zurgshield.
     
 - **Maltiverse:** Es una plataforma de inteligencia de amenazas que recopila y analiza datos sobre indicadores de compromiso (IoCs), como direcciones IP, dominios, URLs y archivos que están asociados con actividades maliciosas. La plataforma ayuda a las organizaciones a identificar y mitigar amenazas de seguridad al proporcionar información detallada y actualizada.
 
@@ -140,4 +140,4 @@ En el contexto de la creciente complejidad y sofisticación de las amenazas cibe
 
 
 
-En resumen, FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de la seguridad en redes, integrando tecnologías avanzadas y facilitando una respuesta rápida y efectiva a los incidentes de seguridad. Al combinar diversas herramientas en una plataforma unificada, permite a las organizaciones enfrentar de manera proactiva y eficiente las amenazas cibernéticas modernas.
+En resumen, Zurgshield proporciona una solución completa y eficiente para la gestión de la seguridad en redes, integrando tecnologías avanzadas y facilitando una respuesta rápida y efectiva a los incidentes de seguridad. Al combinar diversas herramientas en una plataforma unificada, permite a las organizaciones enfrentar de manera proactiva y eficiente las amenazas cibernéticas modernas.
