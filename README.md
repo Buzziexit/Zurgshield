@@ -78,7 +78,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
    4.- **Instalación Suricata** - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
    - 4.1- Configuración suricata Agente - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/integrate-network-ids-suricata.html)
    
-   5.- **Instalación ManoliBot** - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLCs, están integrados en Wazuh)!st
+   5.- **Instalación ManoliBot** - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLC Suricata, está integrado en Wazuh)!
 
    4.- **Instalación de The Hive y Cortex**: [Click Aquí](https://docs.thehive-project.org/thehive/legacy/thehive3/installation/install-guide/#docker) 
    
