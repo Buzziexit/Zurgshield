@@ -48,6 +48,14 @@ En el contexto de la creciente complejidad y sofisticación de las amenazas cibe
   - **Visualización:** Los resultados y alertas se visualizan en el Wazuh Dashboard, facilitando la gestión de amenazas.
 
 
+- **Yara:** Es una herramienta diseñada para ayudar en la identificación y clasificación de archivos maliciosos. Permite crear reglas para describir patrones en archivos que pueden indicar la presencia de malware. Estas reglas se pueden utilizar para escanear archivos y procesos en busca de coincidencias con las descripciones de malware.
+
+  - **Detección de Malware:** Yara utiliza reglas definidas por los usuarios para buscar patrones específicos en archivos y procesos, facilitando la identificación de malware conocido y desconocido.
+    
+  - **Creación de Reglas:** Los usuarios pueden crear reglas personalizadas que describan las características del malware, lo que permite a Yara detectar variantes de malware que coincidan con estos patrones.
+    
+  - **Integración con Wazuh:** Yara se puede integrar con Wazuh para escanear archivos y procesos en busca de patrones maliciosos, proporcionando una capa adicional de seguridad y detección en la plataforma FULLSIEMBuzzi.
+    
 - **Maltiverse:** Es una plataforma de inteligencia de amenazas que recopila y analiza datos sobre indicadores de compromiso (IoCs), como direcciones IP, dominios, URLs y archivos que están asociados con actividades maliciosas. La plataforma ayuda a las organizaciones a identificar y mitigar amenazas de seguridad al proporcionar información detallada y actualizada.
 
   - **Detección de Actividades Sospechosas:** Wazuh detecta actividades sospechosas en el sistema.
