@@ -145,10 +145,6 @@ En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva p
   <a href="https://docs.thehive-project.org/cortex/">
   <img src="/img/cortex (1).svg" alt="wazuh Documentation">
   </a>
-
- <a href="https://docs.thehive-project.org/cortex/">
-  <img src="/img/cortex (1).svg" alt="wazuh Documentation">
-  </a>
   
 </p>
 
