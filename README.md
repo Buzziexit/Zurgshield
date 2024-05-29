@@ -1,5 +1,5 @@
 
-<h1 align="center">🛡️   FULLSIEMBuzzi  🛡️ </h1>
+<h1 align="center">🛡️   ZurgShield SIEM  🛡️ </h1>
 
 
 
@@ -18,7 +18,7 @@
 
 <h2 align="center"> 📝 DESCRIPCIÓN DEL PROYECTO 📝 </h2>
 
-FULLSIEMBuzzi es una solución integral de gestión de información y eventos de seguridad (SIEM) que combina varias herramientas avanzadas de monitoreo, visualización y análisis de seguridad. El objetivo del proyecto es proporcionar una plataforma robusta que permita a las organizaciones detectar, analizar y responder a incidentes de seguridad de manera eficiente.
+Zurgshield es una solución integral de gestión de información y eventos de seguridad (SIEM) que combina varias herramientas avanzadas de monitoreo, visualización y análisis de seguridad. El objetivo del proyecto es proporcionar una plataforma robusta que permita a las organizaciones detectar, analizar y responder a incidentes de seguridad de manera eficiente.
 
 Las principales características del proyecto incluyen:
 
@@ -38,7 +38,7 @@ Las principales características del proyecto incluyen:
 
 
 
-FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de la seguridad en redes, integrando tecnologías avanzadas y facilitando una respuesta rápida y efectiva a los incidentes de seguridad.
+Zurgshield proporciona una solución completa y eficiente para la gestión de la seguridad en redes, integrando tecnologías avanzadas y facilitando una respuesta rápida y efectiva a los incidentes de seguridad.
 
 
 
@@ -92,7 +92,7 @@ FULLSIEMBuzzi proporciona una solución completa y eficiente para la gestión de
 
 <h3 align="center">  CONCLUSIONES </h3>
 
-FULLSIEMBuzzi ofrece una herramienta potente para detectar, analizar y responder a amenazas de seguridad de manera eficiente. Al combinar tecnologías avanzadas como Wazuh, Suricata, Grafana y otras, FULLSIEMBuzzi proporciona una visión completa y un control mejorado sobre la infraestructura de TI, permitiendo una defensa proactiva contra las crecientes amenazas cibernéticas.
+Zurgshield ofrece una herramienta potente para detectar, analizar y responder a amenazas de seguridad de manera eficiente. Al combinar tecnologías avanzadas como Wazuh, Suricata, Grafana y otras, Zurgshield proporciona una visión completa y un control mejorado sobre la infraestructura de TI, permitiendo una defensa proactiva contra las crecientes amenazas cibernéticas.
 
 Los principales logros del proyecto incluyen:
 
@@ -100,12 +100,12 @@ Los principales logros del proyecto incluyen:
 
 - **Visualización Avanzada de Datos:** La implementación de Grafana ha facilitado la creación de dashboards interactivos para monitorear métricas y datos de seguridad en tiempo real. Esta capacidad de visualización mejora la comprensión de la situación de seguridad y facilita la toma de decisiones informadas.
 
-- **Flexibilidad y Movilidad:** FULLSIEMBuzzi proporciona la capacidad de mantener el control sobre los sistemas desde cualquier ubicación. La integración con Telegram y el desarrollo de ManoliBot permiten recibir alertas y ejecutar comandos desde dispositivos móviles, garantizando una respuesta rápida incluso fuera de la oficina.
+- **Flexibilidad y Movilidad:** Zurgshield proporciona la capacidad de mantener el control sobre los sistemas desde cualquier ubicación. La integración con Telegram y el desarrollo de ManoliBot permiten recibir alertas y ejecutar comandos desde dispositivos móviles, garantizando una respuesta rápida incluso fuera de la oficina.
 
 ---
 <h3 align="center">  DESAFÍOS  </h3> 
 
-Durante el desarrollo de FULLSIEMBuzzi, me encontré con varios desafíos técnicos que requerían soluciones creativas:
+Durante el desarrollo de Zurgshield, me encontré con varios desafíos técnicos que requerían soluciones creativas:
 
 - **Limitaciones de IPs Estáticas en AWS:** AWS ofrece la opción de tener IPs estáticas, pero implica costos adicionales que quería evitar, especialmente en un proyecto con recursos limitados como mi laboratorio estudiantil. Para resolver esto, implementé ZeroTier, una solución que me permitió mantener la conectividad sin incurrir en costos adicionales.
 
@@ -113,7 +113,7 @@ Durante el desarrollo de FULLSIEMBuzzi, me encontré con varios desafíos técni
 
 - **Limitaciones del Sistema de Monitorización:** Aunque el sistema de alertas a través de Telegram era útil, enfrenté limitaciones cuando no tenía acceso a un PC para responder a los incidentes. Para superar esto, desarrollé ManoliBot, una herramienta que me permite ejecutar comandos directamente desde mis dispositivos móviles, proporcionando una respuesta rápida y efectiva en cualquier situación.
 
-En resumen, el proyecto FULLSIEMBuzzi ha demostrado ser una solución efectiva para la gestión de seguridad en redes, superando desafíos técnicos con soluciones prácticas y adaptativas. Las lecciones aprendidas durante el proceso de desarrollo me han permitido crear una plataforma sólida y flexible, capaz de adaptarse a las necesidades cambiantes de seguridad cibernética en entornos dinámicos como el mío.
+En resumen, el proyecto Zurgshield ha demostrado ser una solución efectiva para la gestión de seguridad en redes, superando desafíos técnicos con soluciones prácticas y adaptativas. Las lecciones aprendidas durante el proceso de desarrollo me han permitido crear una plataforma sólida y flexible, capaz de adaptarse a las necesidades cambiantes de seguridad cibernética en entornos dinámicos como el mío.
 
 
 <h2 align="center">  REFERENCIAS   </h2> 
