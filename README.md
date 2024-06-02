@@ -57,6 +57,25 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
 
  - [Introducción teórica](/Guia/introduccionTeorica.md)
 
+  <h2 align="center">  Herramientas utilizadas   </h2> 
+
+  <p align="center">
+
+  <img src="/img/telegram_icon-icons.com_72055.png" alt="VirusTotal">
+  <img src="/img/grafana_logo_icon_171048.png" alt="Grafana">
+  <img src="/img/virustotal_logo_icon_171247.png" alt="Telegram">
+  <img src="https://github.com/wazuh/wazuh-packages/blob/4.3/stack/dashboard/base/files/etc/custom_welcome/Assets/Favicons/mstile-70x70.png" alt="wazuh">
+  <img src="/img/icons8-elasticsearch-74.png" alt="Elasticsearc">
+  <img src="/img/thehive_resized.png" alt="thehive">
+  <img src="/img/cortex (1).svg" alt="cortex ">
+  <img src="/img/cortex (1).svg" alt="aws ">
+  <img src="/img/cortex (1).svg" alt="zerotier ">
+  <img src="/img/cortex (1).svg" alt="yara ">
+  <img src="/img/cortex (1).svg" alt="suricata ">
+
+  </p>
+
+
 
 
 <h2 align="center"> 📓🔌🛠️ DESARROLLO DEL PROYECTO 🛠️🔌📓 </h2>
