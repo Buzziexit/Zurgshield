@@ -96,7 +96,10 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
    - 5.1 - ¿Qué es y como funciona? - [Click Aquí](Guia/yara.md)
    - 5.2 - Instalación y configuración yara - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/detect-malware-yara-integration.html)
    
-   6.- **Instalación ManoliBot** - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLC Suricata, está integrado en Wazuh)!
+   6.- **ManoliBot**
+
+   - 6.1 - ¿Qué es y como funciona? - [Click Aquí](Guia/manolibot.md)
+   - 6.2 - Instalación ManoliBot - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLC Suricata, está integrado en Wazuh)!
 
    7.- **The Hive y Cortex**
    
