@@ -67,7 +67,7 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
    1.- **Wazuh**
 
    - 1.2 - ¿Qué es y como funciona? - [Click Aquí](Guia/wazuh.md)
-   - 1.2 - Instalación Wazuh**.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
+   - 1.2 - Instalación Wazuh.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
    - 1.3.- Configuración Agente Wazuh - [Click Aquí](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
 
 
