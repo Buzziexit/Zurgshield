@@ -69,9 +69,9 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
   <img src="/img/thehive_resized.png" alt="thehive">
   <img src="/img/cortex (1).svg" alt="cortex ">
   <img src="/img/icons8-aws-70.png" alt="aws ">
-  <img src="/img/cortex (1).svg" alt="zerotier ">
-  <img src="/img/cortex (1).svg" alt="yara ">
-  <img src="/img/cortex (1).svg" alt="suricata ">
+  <img src="/img/ZeroTier.png" alt="zerotier ">
+  <img src="/img/yara1.jpg" alt="yara ">
+  <img src="/img/suricat.jpg" alt="suricata ">
 
   </p>
 
