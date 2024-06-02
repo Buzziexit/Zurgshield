@@ -86,6 +86,7 @@ Este proyecto está desarrollado en la plataforma de Amazon Web Services (AWS), 
    
    - 0.1.- ¿Qué es y como funciona? - [Click Aquí](Guia/zerotier.md)
    - 0.2- Instalación y configuración - [Click Aquí](Guia/zerotier1.md)
+   - **Anotación:** "Asegúrate de que ZeroTier esté instalado y configurado en todas las instancias para unirse a la red privada."
    
    1.- **Wazuh**
 
