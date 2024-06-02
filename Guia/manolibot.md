@@ -1,4 +1,4 @@
-![manolibot](/img/manolibot.jpeg)
+![manolibot](/img/ManoliBot.jpeg)
 ## **¿Qué es ManoliBot?**
 ManoliBot es un bot de Telegram programado en Bash diseñado para simplificar la gestión y control de servidores mediante la ejecución remota de comandos. Integrándose con la plataforma de mensajería Telegram, ManoliBot ofrece una interfaz accesible y fácil de usar que permite a los usuarios enviar comandos y recibir resultados de manera rápida y conveniente.
 
