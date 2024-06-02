@@ -71,9 +71,12 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
    - 1.3.- Configuración Agente Wazuh - [Click Aquí](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
 
 
-   2.- **Instalación Grafana** - [Click Aquí](https://github.com/Scosrom/monitorizacion/blob/master/graf.md)
-   - 2.1 Configuración de Grafana con Wazuh. [Click Aquí](Guia/conf-graf-wazuh.md)
-   - 2.2 Dashboard - [Click Aquí](Guia/Dashboard.json)
+   2.- **Grafana** 
+   
+   - 2.1 - ¿Qué es y como funciona? - [Click Aquí](Guia/grafana.md)
+   - 2.2 - Instalación Grafana - [Click Aquí](https://github.com/Scosrom/monitorizacion/blob/master/graf.md)
+   - 2.3 - Configuración de Grafana con Wazuh. [Click Aquí](Guia/conf-graf-wazuh.md)
+   - 2.4 - Dashboard - [Click Aquí](Guia/Dashboard.json)
      
    3.- **Integraciones:**
 
