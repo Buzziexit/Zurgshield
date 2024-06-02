@@ -98,10 +98,12 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
    
    6.- **Instalación ManoliBot** - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLC Suricata, está integrado en Wazuh)!
 
-   7.- **Instalación de The Hive y Cortex**: [Click Aquí](https://docs.thehive-project.org/thehive/legacy/thehive3/installation/install-guide/#docker) 
+   7.- **The Hive y Cortex**
    
-   - 7.1- Configuración de Wazuh con The Hive - [Click Aquí](https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/)
-   - 7.2- Añadir usuarios a The Hive - [Click Aquí](https://hub.hive.app/hc/es/articles/15624489753885-A%C3%B1ade-nuevos-usuarios)
+   - 7.1 - ¿Qué son y como funcionan? - [Click Aquí](Guia/thehive-cortex.md)
+   - 7.2 - Instalación de The Hive y Cortex: [Click Aquí](https://docs.thehive-project.org/thehive/legacy/thehive3/installation/install-guide/#docker)
+   - 7.3 - Configuración de Wazuh con The Hive - [Click Aquí](https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/)
+   - 7.4 - Añadir usuarios a The Hive - [Click Aquí](https://hub.hive.app/hc/es/articles/15624489753885-A%C3%B1ade-nuevos-usuarios)
 
 <h2 align="center"> ⚔️💡 CONCLUSIONES Y DESAFÍOS EN EL PROYECTO 💡⚔️ </h2>
 
