@@ -68,7 +68,7 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
   <img src="/img/icons8-elasticsearch-74.png" alt="Elasticsearc">
   <img src="/img/thehive_resized.png" alt="thehive">
   <img src="/img/cortex (1).svg" alt="cortex ">
-  <img src="/img/cortex (1).svg" alt="aws ">
+  <img src="/img/icons8-aws-70.png" alt="aws ">
   <img src="/img/cortex (1).svg" alt="zerotier ">
   <img src="/img/cortex (1).svg" alt="yara ">
   <img src="/img/cortex (1).svg" alt="suricata ">
