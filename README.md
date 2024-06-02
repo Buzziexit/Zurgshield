@@ -59,13 +59,17 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
 
 <h2 align="center"> 🔌🛠️ DESARROLLO DEL PROYECTO 🛠️🔌 </h2>
 
-   0.- **Instalacion y configuración de Zerotier**
-   - 0.1.- ¿Qué es y como funciona? - [Click Aquí](Guia/zerotier.md)
+   0.- **Zerotier**
    
-   1.- **Instalación Wazuh**.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
+   - 0.1.- ¿Qué es y como funciona? - [Click Aquí](Guia/zerotier.md)
+   - 0.2- Instalación y configuración - [Click Aquí](Guia/zerotier1.md)
+   
+   1.- **Wazuh**
 
-   - 1.1.- Configuración Agente Wazuh - [Click Aquí](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
- 
+   - 1.2 - ¿Qué es y como funciona? - [Click Aquí](Guia/wazuh.md)
+   - 1.2 - Instalación Wazuh**.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
+   - 1.3.- Configuración Agente Wazuh - [Click Aquí](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
+
 
    2.- **Instalación Grafana** - [Click Aquí](https://github.com/Scosrom/monitorizacion/blob/master/graf.md)
    - 2.1 Configuración de Grafana con Wazuh. [Click Aquí](Guia/conf-graf-wazuh.md)
