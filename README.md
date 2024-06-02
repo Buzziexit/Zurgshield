@@ -58,7 +58,8 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
 
 
 <h2 align="center"> 🔌🛠️ DESARROLLO DEL PROYECTO 🛠️🔌 </h2>
-
+   0.- **Instalacion y configuración de Zerotier**
+   - 0.1.- ¿Qué es y como funciona? - [Click Aquí](Guia/zerotier.md)
    1.- **Instalación Wazuh**.- [Click Aquí](https://documentation.wazuh.com/current/installation-guide/index.html)
 
    - 1.1.- Configuración Agente Wazuh - [Click Aquí](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
