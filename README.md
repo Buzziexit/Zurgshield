@@ -28,6 +28,8 @@ Las principales características del proyecto incluyen:
 
 - **Suricata:** Motor de detección y prevención de intrusiones que analiza el tráfico de red en busca de patrones maliciosos.
 
+- **YARA:** Herramienta de código abierto utilizada para identificar y clasificar archivos basándose en reglas definidas por el usuario. Ideal para buscar patrones específicos en archivos y detectar variantes de malware conocidas o desconocidas. 
+
 - **Alertas a través de Telegram:** Envío de alertas de seguridad directamente a un canal o grupo de Telegram para una comunicación inmediata.
 
 - **VirusTotal y Maltiverse:** Análisis automatizado de archivos y URLs contra bases de datos de amenazas conocidas para mejorar la detección de malware y sitios maliciosos.
