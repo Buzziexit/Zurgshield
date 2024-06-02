@@ -1,3 +1,5 @@
+![yara](/img/yara.jpg)
+
 ## **¿Qué es YARA?**
 YARA es una herramienta de código abierto utilizada para identificar y clasificar archivos basándose en reglas definidas por el usuario. Es ampliamente utilizada en la investigación de malware, análisis forense y detección de amenazas, permitiendo a los analistas describir patrones de comportamiento o características de archivos sospechosos. YARA fue creada por Víctor Manuel Álvarez de la empresa VirusTotal.
 
