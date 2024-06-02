@@ -1,4 +1,4 @@
-![wazuh](img/wazuh.jpg)
+![wazuh](/img/wazuh.jpg)
 ## **¿Qué es Wazuh?**
 
 Wazuh es una plataforma de seguridad de código abierto que proporciona capacidades avanzadas de monitoreo, detección de amenazas y respuesta. Está diseñada para ayudar a las organizaciones a detectar, analizar y responder a incidentes de seguridad en tiempo real. Wazuh combina múltiples funcionalidades, incluidas la detección de intrusiones, la monitorización de la integridad de archivos, la gestión de vulnerabilidades, el análisis de registro y la monitorización de la seguridad de la configuración.
