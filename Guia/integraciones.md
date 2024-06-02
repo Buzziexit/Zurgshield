@@ -24,7 +24,8 @@ Modifica los archivos de configuración de Wazuh para incluir el script en las r
 Prueba de Integración:
 
 Envía una alerta de prueba desde Wazuh y verifica que el bot de Telegram reciba y muestre la alerta correctamente.
-Integración con VirusTotal
+
+### **Integración con VirusTotal**
 
 #### **¿Qué es VirusTotal?**
 VirusTotal es un servicio en línea que analiza archivos y URLs para detectar virus, malware y otras amenazas utilizando múltiples motores antivirus y herramientas de detección.
@@ -45,7 +46,8 @@ Modifica las reglas de Wazuh para invocar el script de VirusTotal cuando se dete
 Prueba de Integración:
 
 Envía un archivo o URL de prueba que desencadene una alerta en Wazuh y verifica que se envíe una consulta a VirusTotal, recibiendo y registrando los resultados de la evaluación de amenazas.
-Integración con Maltiverse
+
+### **Integración con Maltiverse**
 
 #### **¿Qué es Maltiverse?**
 Maltiverse es una plataforma de inteligencia de amenazas que proporciona información sobre dominios, direcciones IP, y otros indicadores de compromiso (IOC). Ayuda a identificar y analizar actividades maliciosas en la red.
