@@ -61,17 +61,17 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
 
   <p align="center">
 
-  <img src="/img/telegram_icon-icons.com_72055.png" alt="VirusTotal">
-  <img src="/img/grafana_logo_icon_171048.png" alt="Grafana">
-  <img src="/img/virustotal_logo_icon_171247.png" alt="Telegram">
-  <img src="https://github.com/wazuh/wazuh-packages/blob/4.3/stack/dashboard/base/files/etc/custom_welcome/Assets/Favicons/mstile-70x70.png" alt="wazuh">
-  <img src="/img/icons8-elasticsearch-74.png" alt="Elasticsearc">
-  <img src="/img/thehive_resized.png" alt="thehive">
-  <img src="/img/cortex (1).svg" alt="cortex ">
-  <img src="/img/icons8-aws-70.png" alt="aws ">
-  <img src="/img/ZeroTier.png" alt="zerotier ">
-  <img src="/img/yara1.jpg" alt="yara ">
-  <img src="/img/suricat.jpg" alt="suricata ">
+  <img src="https://img.shields.io/badge/Telegram-blue" alt="telegram">
+  <img src="https://img.shields.io/badge/Grafana-orange" alt="Grafana">
+  <img src="https://img.shields.io/badge/VirusTotal-34495E" alt="Virustotal">
+  <img src="https://img.shields.io/badge/wazuh-blue" alt="wazuh">
+  <img src="https://img.shields.io/badge/elasticsearch-yellow" alt="Elasticsearc">
+  <img src="https://img.shields.io/badge/the_hive-yellow" alt="thehive">
+  <img src="https://img.shields.io/badge/cortex-violet" alt="cortex ">
+  <img src="https://img.shields.io/badge/aws-FF9900" alt="aws ">
+  <img src="https://img.shields.io/badge/zerotier-FF9900" alt="zerotier ">
+  <img src="https://img.shields.io/badge/YARA-red" alt="yara ">
+  <img src="https://img.shields.io/badge/Suricata-white" alt="suricata ">
 
   </p>
 
