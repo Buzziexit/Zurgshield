@@ -51,13 +51,13 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
 
 <h2 align="center"> 📓📌 INTRODUCCIÓN TEÓRICA 📌📓 </h2> 
 
-**TL;DR**: Este proyecto integra múltiples herramientas de seguridad como Wazuh, Grafana, Suricata, y más, para crear un sistema de monitoreo y respuesta a incidentes de seguridad eficiente y completo. 
+**TL;DR**: En desarrollo se explica detalladamente. 
 
  - [Introducción detallada](/Guia/introduccionTeorica.md)
 
 
 
-<h2 align="center"> 🔌🛠️ DESARROLLO DEL PROYECTO 🛠️🔌 </h2>
+<h2 align="center"> 📓🔌🛠️ DESARROLLO DEL PROYECTO 🛠️🔌📓 </h2>
 
    0.- **Zerotier**
    
