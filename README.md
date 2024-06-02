@@ -80,10 +80,10 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
      
    3.- **Integraciones:**
 
-   - 3.1.- Integración con Alertas Telegram - [Click Aquí](Guia/conf-telegram.md)
-
-   - 3.2.- Integración Virus Total - [Click Aquí](https://documentation.wazuh.com/current/user-manual/capabilities/malware-detection/virus-total-integration.html)
-   - 3.3.- Integracion con Maltiverse - [Click Aquí](https://documentation.wazuh.com/current/user-manual/manager/manual-integration.html#maltiverse)
+   - 3.1 - ¿Que son y como funcionan? - [Click Aquí](Guia/integraciones.md)
+   - 3.2 - Integración con Alertas Telegram - [Click Aquí](Guia/conf-telegram.md)
+   - 3.3 - Integración Virus Total - [Click Aquí](https://documentation.wazuh.com/current/user-manual/capabilities/malware-detection/virus-total-integration.html)
+   - 3.3 - Integracion con Maltiverse - [Click Aquí](https://documentation.wazuh.com/current/user-manual/manager/manual-integration.html#maltiverse)
    
    4.- **Instalación Suricata** - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
    - 4.1- Configuración suricata Agente - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/integrate-network-ids-suricata.html)
