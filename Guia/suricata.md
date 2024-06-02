@@ -1,3 +1,5 @@
+![suricata](/img/1-2-e1692658052286.webp)
+
 ## **¿Qué es Suricata?**
 Suricata es un motor de análisis de tráfico de red de alto rendimiento y código abierto que ofrece capacidades avanzadas de detección de intrusiones (IDS), prevención de intrusiones (IPS), monitoreo de seguridad de red y monitoreo de eventos de red (NSM). Es desarrollado por la Organización de Sistemas de Intrusión de Código Abierto (OISF) y es conocido por su capacidad de inspeccionar tráfico a velocidades de red muy altas, aprovechando tecnologías de hardware modernas y técnicas avanzadas de procesamiento.
 
