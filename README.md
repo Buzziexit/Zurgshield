@@ -88,10 +88,13 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
    4.- **Suricata**
    
    - 4.1 - ¿Qué es y como funciona? - [Click Aquí](Guia/suricata.md)
-   - 4.2 - Instalación Suricata** - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
+   - 4.2 - Instalación Suricata - [Click Aquí](https://github.com/Scosrom/Suricata-Telegram/blob/main/README.md)  - ¡(No realizar el paso 3 marcado como Opcional)!
    - 4.3 - Configuración suricata Agente - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/integrate-network-ids-suricata.html)
    
-   5.- **Instalación y configuración yara** - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/detect-malware-yara-integration.html)
+   5.- **Yara** - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/detect-malware-yara-integration.html)
+
+   - 5.1 - ¿Qué es y como funciona? - [Click Aquí](Guia/yara.md)
+   - 5.2 - Instalación y configuración yara - [Click Aquí](https://documentation.wazuh.com/current/proof-of-concept-guide/detect-malware-yara-integration.html)
    
    6.- **Instalación ManoliBot** - [Click Aquí](https://github.com/Scosrom/ManoliBot-Telegram)  - ¡(No instalar DLC Suricata, está integrado en Wazuh)!
 
