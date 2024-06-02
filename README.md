@@ -53,7 +53,7 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
 
 **TL;DR**: En desarrollo se explica detalladamente. 
 
- - [Introducción detallada](/Guia/introduccionTeorica.md)
+ - [Introducción teórica](/Guia/introduccionTeorica.md)
 
 
 
