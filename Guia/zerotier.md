@@ -1,3 +1,6 @@
+![zerotier](/img/E0J1B0dWQAEH4WD.jpg)
+
+
 ## **¿Qué es ZeroTier?**
 ZeroTier es una plataforma de red de malla que facilita la creación y gestión de redes virtuales privadas de manera sencilla y segura. Combina lo mejor de las redes físicas y las virtuales, permitiendo conectar dispositivos como si estuvieran en la misma red local, independientemente de su ubicación geográfica. Es altamente flexible y puede ser usado en entornos personales, empresariales y en la nube.
 
