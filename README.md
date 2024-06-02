@@ -80,6 +80,8 @@ Zurgshield proporciona una solución completa y eficiente para la gestión de la
 
 <h2 align="center"> 📓🔌🛠️ DESARROLLO DEL PROYECTO 🛠️🔌📓 </h2>
 
+Este proyecto está desarrollado en la plataforma de Amazon Web Services (AWS), aprovechando su infraestructura escalable y servicios en la nube. A continuación, se detallan los componentes y herramientas utilizadas para fortalecer la seguridad y monitorización de los sistemas:
+
    0.- **Zerotier**
    
    - 0.1.- ¿Qué es y como funciona? - [Click Aquí](Guia/zerotier.md)
