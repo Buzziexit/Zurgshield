@@ -55,6 +55,8 @@ Envía un archivo o URL de prueba que desencadene una alerta en Wazuh y verifica
 #### **¿Qué es Maltiverse?**
 Maltiverse es una plataforma de inteligencia de amenazas que proporciona información sobre dominios, direcciones IP, y otros indicadores de compromiso (IOC). Ayuda a identificar y analizar actividades maliciosas en la red.
 
+* (Un indicador de compromiso o IDC es toda aquella información relevante que describe cualquier incidente de ciberseguridad, actividad y/o artefacto malicioso, mediante el análisis de sus patrones de comportamiento.)
+
 #### **¿Cómo Funciona la Integración con Maltiverse?**
 La integración de Wazuh con Maltiverse permite consultar automáticamente la base de datos de inteligencia de amenazas de Maltiverse para obtener información sobre los IOCs detectados en los eventos de Wazuh.
 
