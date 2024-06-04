@@ -2,7 +2,7 @@
 Wazuh ofrece una amplia gama de integraciones que extienden sus capacidades y permiten una mejor detección y respuesta a incidentes de seguridad. Estas integraciones facilitan la recopilación de datos, el análisis de amenazas y la gestión de incidentes al integrarse con diversas herramientas y servicios de seguridad, redes y gestión de TI.
 
 ### **Integración con Telegram**
-
+![telegram](/img/telegram_icon-icons.com_72055.png)
 #### **¿Qué es Telegram?**
 Telegram es una aplicación de mensajería instantánea basada en la nube que permite enviar mensajes, fotos, videos y archivos de cualquier tipo. Es conocida por su seguridad, velocidad y capacidad para crear bots que automatizan tareas.
 
@@ -27,6 +27,7 @@ Envía una alerta de prueba desde Wazuh y verifica que el bot de Telegram reciba
 
 ### **Integración con VirusTotal**
 
+![virustotal](/img/virustotal_logo_icon_171247.png)
 #### **¿Qué es VirusTotal?**
 VirusTotal es un servicio en línea que analiza archivos y URLs para detectar virus, malware y otras amenazas utilizando múltiples motores antivirus y herramientas de detección.
 
@@ -48,6 +49,8 @@ Prueba de Integración:
 Envía un archivo o URL de prueba que desencadene una alerta en Wazuh y verifica que se envíe una consulta a VirusTotal, recibiendo y registrando los resultados de la evaluación de amenazas.
 
 ### **Integración con Maltiverse**
+
+![maltiverse](/img/30807544.png)
 
 #### **¿Qué es Maltiverse?**
 Maltiverse es una plataforma de inteligencia de amenazas que proporciona información sobre dominios, direcciones IP, y otros indicadores de compromiso (IOC). Ayuda a identificar y analizar actividades maliciosas en la red.
